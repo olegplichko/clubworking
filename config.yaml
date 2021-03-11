@@ -1,0 +1,114 @@
+---
+data:
+  - status: P1
+    emoji: ½🍅
+    start: "10:00"
+    stop: "10:25"
+    description: Focus time
+  - status: B
+    emoji: 😀
+    start: "10:25"
+    stop: "10:30"
+    description: Short break
+  - status: P1
+    emoji: 🍅
+    start: "10:30"
+    stop: "10:55"
+    description: Focus time
+  - status: B
+    emoji: 😁
+    start: "10:55"
+    stop: "11:00"
+    description: Short break
+  - status: P2
+    emoji: 🍅🍅
+    start: "11:00"
+    stop: "11:50"
+    description: Focus time
+  - status: B
+    emoji: 🤣
+    start: "11:50"
+    stop: "12:00"
+    description: Short break
+  - status: P3
+    emoji: 🍅🍅🍅
+    start: "12:00"
+    stop: "12:50"
+    description: Focus time
+  - status: LB
+    emoji:
+      - 🍲
+      - 🥘
+      - 🥡
+      - 🍛
+      - 🍜
+    start: "12:50"
+    stop: "13:20"
+    description: Long break
+  - status: P1
+    emoji: 🍅
+    start: "13:20"
+    stop: "14:10"
+    description: Focus time
+  - status: B
+    emoji: 🤓
+    start: "14:10"
+    stop: "14:20"
+    description: Short break
+  - status: P2
+    emoji: 🍅🍅
+    start: "14:20"
+    stop: "15:10"
+    description: Focus time
+  - status: B
+    emoji:
+    start: "15:10"
+    stop: "15:20"
+    description: Short break
+  - status: P3
+    emoji: 🍅🍅🍅
+    start: "15:20"
+    stop: "16:10"
+    description: Focus time
+  - status: LB
+    emoji:
+      - 🏋️
+      - 🏊
+      - 🏃
+      - 🏌️
+    start: "16:10"
+    stop: "16:40"
+    description: Long break
+  - status: P1
+    emoji: 🍅
+    start: "16:40"
+    stop: "17:30"
+    description: Focus time
+  - status: B
+    emoji: 🤪
+    start: "17:30"
+    stop: "17:40"
+    description: Short break
+  - status: P2
+    emoji: 🍅🍅
+    start: "17:40"
+    stop: "18:30"
+    description: Focus time
+  - status: B
+    emoji: 😜
+    start: "18:30"
+    stop: "18:40"
+    description: Short break
+  - status: P3
+    emoji: 🍅🍅🍅
+    start: "18:40"
+    stop: "19:05"
+    description: Focus time
+  - status: R
+    emoji:
+      - ✔️
+      - ☑️
+      - ✅
+    start: "19:50"
+    stop: "19:20"
+    description: Retrospective
