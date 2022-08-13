@@ -1,2 +1,2 @@
 # clubworking
-Schedule bot for clubworking
+Pomodoro schedule bot
